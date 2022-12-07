@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+#Newyork {
+	background-color: #C30;
+	letter-spacing: normal;
+	text-align: center;
+	vertical-align: middle;
+	word-spacing: normal;
+	white-space: normal;
+	margin: 300px;
+	padding: 300px;
+	height: auto;
+	width: auto;
+}
+.baa\ckground {
+	background-color: #06C;
+	background-image: url(file:///Macintosh%20HD/Users/ronaldseals/Desktop/Yugioh/download.jpg);
+	background-repeat: no-repeat;
+	padding: 5000px;
+	clear: none;
+	float: none;
+	height: 5000px;
+	width: 5000px;
+	margin-top: auto;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
