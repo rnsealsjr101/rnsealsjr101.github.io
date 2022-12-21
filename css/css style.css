@@ -128,7 +128,7 @@ body {
 	margin-right : auto;
 	margin-left : auto;
 	background-attachment : fixed;
-	background-image: url(../../sUPER%20DESIGN%202/images/0slideshsow.jpg);
+	background-image: url(../../sUPER%20DESIGN%202/pexels-pixabay-53594.jpeg);
 }
 #wrapper {
 	background-image : url(../images/nav.png);
@@ -331,13 +331,13 @@ width : 250px;
 	background-repeat : no-repeat;
 	position : absolute;
 	z-index : 2;
-	height : 860px;
+	height : 1023px;
 	margin-right : 3px;
 	margin-left : -18px;
 	margin-top : -9px;
 	margin-bottom : 3px;
-	top: 1463px;
-	left: 325px;
+	top: 1398px;
+	left: 311px;
 }
 #dragon {
 background-color : #666;
@@ -902,7 +902,7 @@ margin-left : auto;
 }
 
 /*Navbar Functionality*/
-#navbar{
+#mo{
     display:flex;
     flex-direction: column;
     background-color: gray;
@@ -1160,7 +1160,7 @@ footer{
     }
 }
 @media only screen and (min-height:1000px){
-    #navbar{
+    #mo{
         height:10vh;
     }
     #container1::before{
@@ -1200,7 +1200,7 @@ footer{
 }
 
 /*Navbar Functionality*/
-#navbar{
+#mo{
     display:flex;
     flex-direction: column;
     background-color: gray;
@@ -1458,7 +1458,7 @@ footer{
     }
 }
 @media only screen and (min-height:1000px){
-    #navbar{
+    #mo{
         height:10vh;
     }
     #container1::before{
@@ -1550,3 +1550,28 @@ footer{
  
       
     </style>
+#static {
+	font-size: xx-large;
+	font-style: italic;
+	line-height: normal;
+	font-weight: 700;
+	font-variant: normal;
+	text-transform: uppercase;
+	letter-spacing: normal;
+	word-spacing: normal;
+	white-space: normal;
+	height: 750px;
+	width: 750px;
+}
+#ContactUs table {
+	font-family: "Times New Roman", Times, serif;
+	font-weight: 900;
+	text-transform: uppercase;
+	color: #FFF;
+	background-image: url(../../sUPER%20DESIGN%202/shadow.jpg);
+	letter-spacing: normal;
+	text-align: center;
+	word-spacing: normal;
+	white-space: normal;
+	font-size: xx-large;
+}
